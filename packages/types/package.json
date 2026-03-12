@@ -1,0 +1,8 @@
+{
+  "name": "@jerm-garments/types",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    ".": "./sanity.types.ts"
+  }
+}
